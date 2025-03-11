@@ -1,2 +1,2 @@
-rm fpgen/*
-rm metrinome/*
+rm fpgen/*.c
+rm metrinome/*.c
