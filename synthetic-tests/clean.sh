@@ -1,0 +1,2 @@
+rm fpgen/*
+rm metrinome/*
