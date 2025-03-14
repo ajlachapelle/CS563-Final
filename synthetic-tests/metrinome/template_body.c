@@ -12,7 +12,11 @@
     }
 
     // The synthesis script will replace the FLAG line with a summation variation:
-    // FLAG
+// REPLACE
+    for (i = N-1 ; i > 0 ; i--)
+    {
+        L[i-1] += L[i];
+    }
 
     return 0;
 }
